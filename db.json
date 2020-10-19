@@ -14,5 +14,5 @@
   "events": [
     { "id": 1, "name": "Medical Leave", "eventId": 9001 },
     { "id": 2, "name": "Compassionate Leave", "eventId": 9002 }
-  ],
+  ]
 }
